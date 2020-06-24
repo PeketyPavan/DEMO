@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>a colourful website </title>
+</head>
+<body>
+
+<h1 style="colour : #07F"a colourful website</h1>
+
+<p> this is website about colour.</p>
